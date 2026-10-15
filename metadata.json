@@ -1,0 +1,6 @@
+{
+  "name": "CarePulse EHR & Clinical Scheduling System",
+  "description": "Comprehensive healthcare portal with patient registration, doctor scheduling, real-time availability, appointment management, and electronic health records (EHR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
