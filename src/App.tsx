@@ -136,7 +136,7 @@ const MainContent: React.FC = () => {
                     className="px-5 py-3 rounded-xl font-bold text-sm bg-teal-900/60 hover:bg-teal-900 text-teal-200 border border-teal-700/50 transition-all flex items-center gap-2"
                   >
                     <Sparkles className="w-4 h-4" />
-                    Register New Patient
+                    Register Patient
                   </button>
                 </div>
 
@@ -232,7 +232,7 @@ const MainContent: React.FC = () => {
             <span className="font-bold text-slate-800">CarePulse EHR & Clinical Scheduling System</span>
           </div>
           <p className="text-slate-400">
-            Node.js & Express API Backend • React & Tailwind Frontend • HIPAA-aligned Role & Access Control
+            © {new Date().getFullYear()} CarePulse Healthcare. All rights reserved.
           </p>
         </div>
       </footer>
